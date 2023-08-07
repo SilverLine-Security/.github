@@ -10,7 +10,7 @@
 
 <br>
 
-## Conquista Code Team 
+## SilverLine Security Team 
 | Members | Profile Links |
 | --- | --- |
 | Natasha Siramarco | [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/natasha-siramarco/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/nsiramarco) |
@@ -24,7 +24,7 @@
 
 ## Project Management
 
-[Project Management](https://trello.com/b/hPRu0zMp/project-management?completedInviteSignup=1) 
+[Project Management](https://trello.com/b/hPRu0zMp/silverline-security-main-board)
 
 <br>
 
