@@ -1,6 +1,19 @@
-#### What is this project about: pending......
+## Welcome to SilverLine Security: Enhancing Your Cloud Security
 
-#### Repositary material relation to project: pending......
+
+### What is this project about:
+At SilverLine Security, we are your trusted partners in fortifying your cloud infrastructure against cyber threats. Our comprehensive project is dedicated to elevating your cloud security to new heights, focusing on logging, monitoring, and detection of adversarial activity within your AWS environment.
+
+### Repositary material relation to project:
+#### What You'll Discover:
+
+- Cloud Architecture Design: Dive into the heart of our project where we meticulously craft a secure and efficient AWS infrastructure. Our visually appealing diagrams showcase the integration of AWS instances, networks, tools, and services. Learn how we harness the power of AWS IAM, CloudTrail, and Amazon GuardDuty to bolster your security.
+
+- SOP and Policy Documentation: Explore our Security Incident Plan, meticulously detailing testing procedures for security controls and monitoring solutions. Visualize the response process with our incident trigger diagram. Discover our Compliance Documentation, showcasing alignment with industry standards, including PCI DSS.
+
+- Threat Emulation and Testing: Explore into our responsible approach to threat emulation using Stratus Red Team. Witness how simulated attacks remain contained within our AWS Virtual Private Cloud (VPC), ensuring ethical practices and controlled testing.
+
+At SilverLine Security, we're not just about technology; we're about your peace of mind. Join us on this journey to safeguard your cloud infrastructure and unlock a new level of cybersecurity confidence.
 
 
 <br>
@@ -30,7 +43,10 @@
 
 ## Files and Repos
 
-[Team Agreement] pending.....
+[Team Agreement](https://github.com/SilverLine-Security/Team-Agreement)
+
+[Standard Operating Procedures (SOPs)](https://github.com/SilverLine-Security/Standard-Operating-Procedures)
+
 
 <!--
 
