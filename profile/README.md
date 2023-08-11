@@ -47,6 +47,8 @@ At SilverLine Security, we're not just about technology; we're about your peace 
 
 [Standard Operating Procedures (SOPs)](https://github.com/SilverLine-Security/Standard-Operating-Procedures)
 
+[Scripts](https://github.com/SilverLine-Security/Scripts/blob/main/README.md)
+
 
 <!--
 
